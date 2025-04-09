@@ -3,12 +3,12 @@
     "id": "1",
     "name": "Проект 1",
     "description": "Описание проекта 1",
-    "imagePath": "https://optim.tildacdn.com/tild3662-3038-4133-a563-333333303331/-/format/webp/IMG_7922.JPEG.webp"
+    "imageUrl": "https://optim.tildacdn.com/tild3662-3038-4133-a563-333333303331/-/format/webp/IMG_7922.JPEG.webp"
   },
   {
     "id": "2",
     "name": "Проект 2",
     "description": "Описание проекта 2",
-    "imagePath": "https://optim.tildacdn.com/tild3364-6533-4235-a538-306431336631/-/format/webp/_ER_9361-HDR-Edit.jpg.webp"
+    "imageUrl": "https://optim.tildacdn.com/tild3364-6533-4235-a538-306431336631/-/format/webp/_ER_9361-HDR-Edit.jpg.webp"
   }
 ]
