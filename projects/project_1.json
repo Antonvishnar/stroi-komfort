@@ -1,0 +1,18 @@
+{
+  "id": "1",
+  "name": "Проект 1",
+  "description": "Полное описание проекта 1",
+  "gallery": [
+    "https://optim.tildacdn.com/tild3662-3038-4133-a563-333333303331/-/format/webp/IMG_7922.JPEG.webp",
+    "https://optim.tildacdn.com/tild6534-3731-4366-b266-333764646236/-/format/webp/IMG_7906.JPEG.webp",
+    "https://optim.tildacdn.com/tild3230-6238-4761-a666-303131333463/-/format/webp/IMG_7993.JPEG.webp",
+    "https://optim.tildacdn.com/tild3434-3838-4538-b066-623231626332/-/format/webp/IMG_8026.JPEG.webp",
+    "https://optim.tildacdn.com/tild6333-3733-4439-a539-656365393661/-/format/webp/IMG_8039.JPEG.webp",
+    "https://optim.tildacdn.com/tild3535-3235-4463-b565-386363663335/-/format/webp/IMG_8054.JPEG.webp"
+  ],
+  "tabs": {
+    "Планировка": "Описание планировки...",
+    "Материалы": "Информация о материалах...",
+    "Отзывы": "Отзывы клиентов..."
+  }
+}
