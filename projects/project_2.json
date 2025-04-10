@@ -1,0 +1,19 @@
+{
+  "id": "2",
+  "name": "Проект 2",
+  "description": "Полное описание проекта 2",
+  "gallery": [
+    "https://optim.tildacdn.com/tild3364-6533-4235-a538-306431336631/-/format/webp/_ER_9361-HDR-Edit.jpg.webp",
+    "https://optim.tildacdn.com/tild6339-6234-4561-a133-333564356361/-/format/webp/_ER_9381-HDR-Edit.jpg.webp",
+    "https://optim.tildacdn.com/tild3231-3964-4838-b463-316665333738/-/format/webp/_ER_9385-HDR-Edit.jpg.webp",
+    "https://optim.tildacdn.com/tild3234-3034-4236-a632-643564303235/-/format/webp/_ER_9393-HDR-Edit.jpg.webp",
+    "https://optim.tildacdn.com/tild3438-6130-4332-b261-636637333365/-/format/webp/_ER_9405-HDR-Edit.jpg.webp",
+    "https://optim.tildacdn.com/tild6136-3834-4363-b238-626432396534/-/format/webp/_ER_9249-HDR-Edit.jpg.webp"
+  ],
+  "tabs": {
+    "Планировка": "Описание планировки...",
+    "Материалы": "Информация о материалах...",
+    "Отзывы": "Отзывы клиентов...",
+    "Калькулятор отопления" : "Пока что считать нельзя..."
+  }
+}
