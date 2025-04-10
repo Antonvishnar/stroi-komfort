@@ -1,0 +1,22 @@
+{
+  "id": "4",
+  "name": "Проект 4",
+  "description": "Полное описание проекта 4",
+  "gallery": [
+    "https://optim.tildacdn.com/tild6366-3333-4966-b136-383862623561/-/format/webp/IMG_6753.JPEG.webp",
+    "https://optim.tildacdn.com/tild6264-6364-4130-a364-646533356161/-/format/webp/IMG_6656.JPEG.webp",
+    "https://optim.tildacdn.com/tild3238-6164-4339-b733-656136303333/-/format/webp/IMG_6611.JPEG.webp",
+    "https://optim.tildacdn.com/tild6537-3531-4631-a436-653434313836/-/format/webp/IMG_6629_1.jpg.webp",
+    "https://optim.tildacdn.com/tild6133-3435-4865-b764-393962663632/-/format/webp/IMG_0116.jpeg.webp",
+    "https://optim.tildacdn.com/tild3531-3866-4437-b966-393664303037/-/format/webp/IMG_0210.jpeg.webp",
+    "https://optim.tildacdn.com/tild6130-3338-4137-a362-353235323530/-/format/webp/IMG_6680.JPEG.webp",
+    "https://optim.tildacdn.com/tild6364-3533-4234-b361-306335656235/-/format/webp/IMG_8057.jpeg.webp",
+    "https://optim.tildacdn.com/tild3464-6132-4562-b364-303265373434/-/format/webp/IMG_6677__2.JPG.webp"
+  ],
+  "tabs": {
+    "Планировка": "Описание планировки...",
+    "Материалы": "Информация о материалах...",
+    "Отзывы": "Отзывы клиентов...",
+    "Калькулятор отопления" : "Пока что считать нельзя..."
+  }
+}
