@@ -2,5 +2,9 @@
   "projects": {
     "version": "1.2",
     "url": "https://raw.githubusercontent.com/Antonvishnar/stroi-komfort/main/projects.json"
+  },
+  "calculator": {
+    "version": "1.1",
+    "url": "https://raw.githubusercontent.com/Antonvishnar/stroi-komfort/refs/heads/main/calculator.json"
   }
 }
