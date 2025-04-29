@@ -1,7 +1,5 @@
 {
   "id": "1",
-  "name": "Баня из клеёного бруса с бассейном 4 Х 16",
-  "description": "Интересный проект в нашем портфолио. Помещение бассейна  пристроили к существующей бане из клееного бруса. При строительстве применялись необычные инженерные решения и оборудование. Все работы выполнены под ключ.",
   "gallery": [
     "https://optim.tildacdn.com/tild3662-3038-4133-a563-333333303331/-/format/webp/IMG_7922.JPEG.webp",
     "https://optim.tildacdn.com/tild6534-3731-4366-b266-333764646236/-/format/webp/IMG_7906.JPEG.webp",
@@ -10,9 +8,32 @@
     "https://optim.tildacdn.com/tild6333-3733-4439-a539-656365393661/-/format/webp/IMG_8039.JPEG.webp",
     "https://optim.tildacdn.com/tild3535-3235-4463-b565-386363663335/-/format/webp/IMG_8054.JPEG.webp"
   ],
-  "tabs": {
-    "Планировка": "Описание планировки...",
-    "Материалы": "Информация о материалах...",
-    "Отзывы": "Отзывы клиентов..."
-  }
+  "tabs": [
+    {
+      "title": "О доме",
+      "content": [
+        {
+          "type": "text",
+          "content": "Это подробное описание проекта"
+        },
+        {
+          "type": "image",
+          "content": "https://th.bing.com/th/id/OIP.7HwxcPXccuQtvkWPltkZ3gHaE7?rs=1&pid=ImgDetMain"
+        }
+      ]
+    },
+    {
+      "title": "Планировка",
+      "content": [
+        {
+          "type": "text",
+          "content": "Здесь будет планировка"
+        },
+        {
+          "type": "text",
+          "content": "Это второй текст"
+        }
+      ]
+    }
+  ]
 }
