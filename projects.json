@@ -3,7 +3,7 @@
     "id": "1",
     "name": "Баня из бруса с бассейном",
     "description": "Интересный проект в нашем портфолио. Помещение бассейна  пристроили к существующей бане из клееного бруса. При строительстве применялись необычные инженерные решения и оборудование. Все работы выполнены под ключ.",
-    "imageUrl": "https://optim.tildacdn.com/tild3662-3038-4133-a563-333333303331/-/format/webp/IMG_7922.JPEG.webp",
+    "imageUrl": "https://enlptzyfotrhmrtramqd.supabase.co/storage/v1/object/public/images//id_1.jpg",
     "price": 7000000,
     "floors": 2,
     "square": 195
@@ -12,7 +12,7 @@
     "id": "2",
     "name": "Дом из клеёного бруса",
     "description": "Этот интересный проект был реализован нами совсем недавно. К уже существующему дому мы сделали пристрой из «родного» ему материала — клееного бруса. Благодаря этому увеличилось жилое пространство и дом приобрел необычный вид. Панорамное остекление и стильный темный цвет стали изюминкой этого проекта.",
-    "imageUrl": "https://optim.tildacdn.com/tild3364-6533-4235-a538-306431336631/-/format/webp/_ER_9361-HDR-Edit.jpg.webp",
+    "imageUrl": "https://enlptzyfotrhmrtramqd.supabase.co/storage/v1/object/public/images//id_2.jpg",
     "price": 4000000,
     "floors": 1,
     "square": 70
@@ -21,7 +21,7 @@
     "id": "3",
     "name": "Одноэтажный дом",
     "description": "Этот компактный и уютный дом из клееного бруса, в котором проживают семья из двух человек и питомец, построен нами недалеко от Иркутска. Всего на 110 кв.м. размещаются полноценная спальня, гостиная, кухня, банный комплекс и гардеробная. Также есть выход на террасу, где с комфортом можно отдохнуть на свежем воздухе.",
-    "imageUrl": "https://optim.tildacdn.com/tild6261-3234-4665-b764-323532353863/-/format/webp/IMG_4822.jpg.webp",
+    "imageUrl": "https://enlptzyfotrhmrtramqd.supabase.co/storage/v1/object/public/images//id_3.jpg",
     "price": 9999999,
     "floors": 2,
     "square": 105
@@ -30,7 +30,7 @@
     "id": "4",
     "name": "Двухэтажный дом",
     "description": "Дом расположен в пригороде Иркутска, на 39 км Байкальского тракта. Проект дома создавался для семьи из четырех человек. На площади в 187 м2 удалось разместить: 4 спальни, гардеробную, инвентарную комнату, просторную кухню-гостиную и 3 санузла.",
-    "imageUrl": "https://optim.tildacdn.com/tild6366-3333-4966-b136-383862623561/-/format/webp/IMG_6753.JPEG.webp",
+    "imageUrl": "https://enlptzyfotrhmrtramqd.supabase.co/storage/v1/object/public/images//id_4.jpg",
     "price": 19000000,
     "floors": 3,
     "square": 500
@@ -39,7 +39,7 @@
     "id": "5",
     "name": "Баня из бруса с бассейном",
     "description": "Интересный проект в нашем портфолио. Помещение бассейна  пристроили к существующей бане из клееного бруса. При строительстве применялись необычные инженерные решения и оборудование. Все работы выполнены под ключ.",
-    "imageUrl": "https://optim.tildacdn.com/tild3662-3038-4133-a563-333333303331/-/format/webp/IMG_7922.JPEG.webp",
+    "imageUrl": "https://enlptzyfotrhmrtramqd.supabase.co/storage/v1/object/public/images//id_1.jpg",
     "price": 7000000,
     "floors": 2,
     "square": 195
@@ -48,7 +48,7 @@
     "id": "6",
     "name": "Дом из клеёного бруса",
     "description": "Этот интересный проект был реализован нами совсем недавно. К уже существующему дому мы сделали пристрой из «родного» ему материала — клееного бруса. Благодаря этому увеличилось жилое пространство и дом приобрел необычный вид. Панорамное остекление и стильный темный цвет стали изюминкой этого проекта.",
-    "imageUrl": "https://optim.tildacdn.com/tild3364-6533-4235-a538-306431336631/-/format/webp/_ER_9361-HDR-Edit.jpg.webp",
+    "imageUrl": "https://enlptzyfotrhmrtramqd.supabase.co/storage/v1/object/public/images//id_2.jpg",
     "price": 4000000,
     "floors": 1,
     "square": 70
@@ -57,7 +57,7 @@
     "id": "7",
     "name": "Одноэтажный дом",
     "description": "Этот компактный и уютный дом из клееного бруса, в котором проживают семья из двух человек и питомец, построен нами недалеко от Иркутска. Всего на 110 кв.м. размещаются полноценная спальня, гостиная, кухня, банный комплекс и гардеробная. Также есть выход на террасу, где с комфортом можно отдохнуть на свежем воздухе.",
-    "imageUrl": "https://optim.tildacdn.com/tild6261-3234-4665-b764-323532353863/-/format/webp/IMG_4822.jpg.webp",
+    "imageUrl": "https://enlptzyfotrhmrtramqd.supabase.co/storage/v1/object/public/images//id_3.jpg",
     "price": 9999999,
     "floors": 2,
     "square": 105
@@ -66,7 +66,7 @@
     "id": "8",
     "name": "Двухэтажный дом",
     "description": "Дом расположен в пригороде Иркутска, на 39 км Байкальского тракта. Проект дома создавался для семьи из четырех человек. На площади в 187 м2 удалось разместить: 4 спальни, гардеробную, инвентарную комнату, просторную кухню-гостиную и 3 санузла.",
-    "imageUrl": "https://optim.tildacdn.com/tild6366-3333-4966-b136-383862623561/-/format/webp/IMG_6753.JPEG.webp",
+    "imageUrl": "https://enlptzyfotrhmrtramqd.supabase.co/storage/v1/object/public/images//id_4.jpg",
     "price": 19000000,
     "floors": 3,
     "square": 500
