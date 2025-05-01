@@ -1,5 +1,12 @@
 {
   "id": "1",
+  "price": "1,000,000",
+  "area": 400,
+  "rooms": 4,
+  "floors": 2,
+  "description": "This modern house has 4 bedrooms, 2 floors and a total area of 400 m². It’s perfect for a family.",
+  "floorPlans": "Здесь будет планировка",
+  "materials": "Кирпич, бетон, металл. Утепление пеноплекс. Кровля — металлочерепица.",
   "gallery": [
     "https://enlptzyfotrhmrtramqd.supabase.co/storage/v1/object/public/images/project_1/IMG_7906.jpg",
     "https://enlptzyfotrhmrtramqd.supabase.co/storage/v1/object/public/images/project_1/IMG_7922.jpg",
